@@ -33,8 +33,9 @@ class CustomCommonMarkParser(CommonMarkParser):
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+#extensions = [ 'chinese_search' ]
 extensions = [
-    'chinese_search'
+    'chinese_search',
     'recommonmark', # myst_parser, recommonmark only one
     'sphinx.ext.todo',
     'sphinx.ext.imgmath', 
