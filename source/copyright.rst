@@ -4,7 +4,7 @@ Copyright
 
 | 书名：    《Python Cookbook》3rd Edition
 | 作者：     David Beazley, Brian K. Jones
-| 译者：     熊能
+| 译者：     yushuoqi
 | 版本：     第3版
 | 出版社：   O’Reilly Media, Inc.
 | 出版日期：  2013年5月08日
