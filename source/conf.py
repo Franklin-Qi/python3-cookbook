@@ -35,7 +35,6 @@ class CustomCommonMarkParser(CommonMarkParser):
 # ones.
 #extensions = [ 'chinese_search' ]
 extensions = [
-    'chinese_search',
     'recommonmark', # myst_parser, recommonmark only one
     'sphinx.ext.todo',
     'sphinx.ext.imgmath', 
